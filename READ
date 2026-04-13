@@ -2,11 +2,10 @@
 #support-url: https://t.me/hiddifycode
 #profile-update-interval: 67
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: ⏰ Подписка действует — 1,2 месяца                                                                   Если не работает всё конфиги то пишите лс: @remiuc
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@yle.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=firefox&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇫🇮 Finland(Финляндия)
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@news.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=chrome&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇩🇪 Germany(Германия)
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@drop.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=chrome&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇳🇱 Netherland(Нидерланды)
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@verse.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=chrome&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇺🇸 America(Америка)
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@baget.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=chrome&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇫🇷 France(Франция)
-
-vless://4d3dc053-2e58-496a-81bc-b782d91ca380@alabuga.zovbot.ru:443?security=reality&encryption=none&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&headerType=none&fp=chrome&type=tcp&sni=dropbox.com&sid=3315575389f6cd9f#🇷🇺 Russia(Россия)
+#announce:Обход глушилок & белых списков 🥂                                                              ⏰ Подписка действует до — 15 июня                                                                   Если не работает всё конфиги то пишите лс: @remiuc
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.146.186:4243?security=reality&encryption=none&pbk=Sdha2ntY-aLVBuCrMwTn4xE6W8HNbEVhai2gzBFKgFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%A9%F0%9F%87%AA%20LTE%201
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.191.134:4243?security=reality&encryption=none&pbk=xnER6TSblL1eehD7sjki7y_0RWPvvmbFVOsSnVFQ4BU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%B3%F0%9F%87%B1%20LTE%202
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.224.196:4243?security=reality&encryption=none&pbk=_x72lP2dFbbXi2f68Ee0GIqF5Z2-L4-fthN8Gzy8AHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%AB%F0%9F%87%AE%20LTE%203
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.140.175:4243?security=reality&encryption=none&pbk=xo10LFuGJ2vuXvHuUV9-rocCKiyOoAQMYjoeNEFS9Rs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%B8%F0%9F%87%AA%20LTE%204
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.231.179:4243?security=reality&encryption=none&pbk=xYI0Sk7yOGWPbNATrNaa3uAGJKx84F-2DjKAEe3rN3g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%B5%F0%9F%87%B1%20LTE%205
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.211.49:4243?security=reality&encryption=none&pbk=PhKmYtye3nReC8oq32Q7w6CYUeIsHdLgFuNp-hLpN3Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%AE%F0%9F%87%B9%20LTE%206
